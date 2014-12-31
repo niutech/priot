@@ -7,4 +7,6 @@ We believe the Internet of Things is a very promising idea, but we notice it bri
 
 If you agree with us, star this project. Contributions are welcome.
 
-&copy; 2014 Jerzy Głowacki et al.
+&copy; 2014 Jerzy Głowacki et al. Licensed under CC BY-SA 4.0.
+
+[Image](http://commons.wikimedia.org/wiki/File:Decentralization.jpg#mediaviewer/File:Decentralization.jpg) by Adam Aladdin, licensed by CC BY-SA 3.0. 
