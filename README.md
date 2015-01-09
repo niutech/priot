@@ -5,7 +5,7 @@ We believe the Internet of Things is a very promising idea, but we notice it bri
 
 ![Centralized vs decentralized](http://upload.wikimedia.org/wikipedia/commons/7/78/Decentralization.jpg)
 
-Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/introduction-distributed-social-network(https://www.eff.org/deeplinks/2011/03/introduction-distributed-social-network), the PrIoT model gives control over sensitive data back to users. They decide which data will be exchanged using one of the emerging open protocols:
+Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/introduction-distributed-social-network), the PrIoT model gives control over sensitive data back to users. They keep their data and decide which part of them will be exchanged using one of the emerging open standard protocols:
 - [Advanced Message Queuing Protocol (AMQP)](http://amqp.org/) by OASIS,
 - [Constrained Application Protocol (CoAP)](http://coap.technology/) by IETF,
 - [Message Queue Telemetry Transport (MQTT)](http://mqtt.org/) by OASIS,
@@ -13,11 +13,11 @@ Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/int
 
 This could be achieved by deploying a local PrIoT cloud based on open source projects like:
  - [AllJoyn](http://www.alljoyn.org/) by AllSeen Alliance,
- - [Contiki (CoAP)](http://www.contiki-os.org/) by Adam Dunkels et al,
- - [Kaa (MQTT/HTTP)](http://www.kaaproject.org/overview/) by CyberVision,
- - [Open IoT Stack for Java (MQTT)](http://iot.eclipse.org/java/) by Eclipse Foundation,
- - [RabbitMQ (AMQP)](https://www.rabbitmq.com/) by Pivotal,
- - [Spark (CoAP)](http://spark.github.io/) by Spark Labs.
+ - [Contiki](http://www.contiki-os.org/) (based on CoAP) by Adam Dunkels et al,
+ - [Kaa](http://www.kaaproject.org/overview/) (based on MQTT/HTTP) by CyberVision,
+ - [Open IoT Stack for Java](http://iot.eclipse.org/java/) (based on MQTT) by Eclipse Foundation,
+ - [RabbitMQ](https://www.rabbitmq.com/) (based on AMQP) by Pivotal,
+ - [Spark](http://spark.github.io/) (based on CoAP) by Spark Labs.
 
 If you agree with us, please star and share this project. Contributions are welcome.
 
