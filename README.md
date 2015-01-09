@@ -9,7 +9,8 @@ Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/int
 - [Advanced Message Queuing Protocol (AMQP)](http://amqp.org/) by OASIS,
 - [Constrained Application Protocol (CoAP)](http://coap.technology/) by IETF,
 - [Message Queue Telemetry Transport (MQTT)](http://mqtt.org/) by OASIS,
-- [Extensible Messaging and Presence Protocol (XMPP)](http://xmpp.org/) by XSF.
+- [eXtensible Messaging and Presence Protocol (XMPP)](http://xmpp.org/) by XSF,
+- [ZeroMQ Message Transport Protocol (ZMTP)](http://zeromq.org/) by DSO.
 
 This could be achieved by deploying a local PrIoT cloud based on open source projects like:
  - [AllJoyn](http://www.alljoyn.org/) by AllSeen Alliance,
