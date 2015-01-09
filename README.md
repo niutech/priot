@@ -14,6 +14,7 @@ Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/int
 This could be achieved by deploying a local PrIoT cloud based on open source projects like:
  - [AllJoyn](http://www.alljoyn.org/) by AllSeen Alliance,
  - [Contiki](http://www.contiki-os.org/) (based on CoAP) by Adam Dunkels et al,
+ - [Edgenet](http://theedg.es/) by Pieter Hintjens,
  - [Kaa](http://www.kaaproject.org/overview/) (based on MQTT/HTTP) by CyberVision,
  - [Open IoT Stack for Java](http://iot.eclipse.org/java/) (based on MQTT) by Eclipse Foundation,
  - [RabbitMQ](https://www.rabbitmq.com/) (based on AMQP) by Pivotal,
