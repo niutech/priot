@@ -10,16 +10,26 @@ Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/int
 - [Constrained Application Protocol (CoAP)](http://coap.technology/) by IETF,
 - [Message Queue Telemetry Transport (MQTT)](http://mqtt.org/) by OASIS,
 - [eXtensible Messaging and Presence Protocol (XMPP)](http://xmpp.org/) by XSF,
-- [ZeroMQ Message Transport Protocol (ZMTP)](http://zeromq.org/) by DSO.
+- [ZeroMQ Message Transport Protocol (ZMTP)](http://zmtp.org/) by iMatix.
 
 This could be achieved by deploying a local PrIoT cloud based on open source projects like:
  - [AllJoyn](http://www.alljoyn.org/) by AllSeen Alliance,
  - [Contiki](http://www.contiki-os.org/) (based on CoAP) by Adam Dunkels et al,
  - [Edgenet](http://theedg.es/) by Pieter Hintjens,
+ - [Freedomotic](http://freedomotic.com/) (based on AMQP),
  - [Kaa](http://www.kaaproject.org/overview/) (based on MQTT/HTTP) by CyberVision,
  - [Open IoT Stack for Java](http://iot.eclipse.org/java/) (based on MQTT) by Eclipse Foundation,
+ - [OpenIoT](http://www.openiot.eu/) by DERI,
+ - [Nimbits](http://www.nimbits.com/) (based on HTTP/XMPP),
+ - [Node-RED](http://nodered.org/) (based on MQTT) by IBM,
+ - [Phant](http://phant.io/) (based on HTTP) by SparkFun,
  - [RabbitMQ](https://www.rabbitmq.com/) (based on AMQP) by Pivotal,
- - [Spark](http://spark.github.io/) (based on CoAP) by Spark Labs.
+ - [RIOT OS](http://www.riot-os.org/) (based on CoAP),
+ - [SiteWhere](http://www.sitewhere.org/) (based on MQTT/HTTP),
+ - [Spark](http://spark.github.io/) (based on CoAP) by Spark Labs,
+ - [ThingSpeak](https://thingspeak.com/) (based on HTTP),
+ - [WSO2](http://wso2.com/) (based on MQTT),
+ - [Zetta](http://www.zettajs.org/) (based on WebSocket).
 
 If you agree with us, please star and share this project. Contributions are welcome.
 
