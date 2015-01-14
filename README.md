@@ -17,6 +17,7 @@ This could be achieved by deploying a local PrIoT cloud based on open source pro
  - [Contiki](http://www.contiki-os.org/) (based on CoAP) by Adam Dunkels et al,
  - [Edgenet](http://theedg.es/) by Pieter Hintjens,
  - [Freedomotic](http://freedomotic.com/) (based on AMQP),
+ - [IoTivity](https://www.iotivity.org/) (based on CoAP) by OIC,
  - [Kaa](http://www.kaaproject.org/overview/) (based on MQTT/HTTP) by CyberVision,
  - [Open IoT Stack for Java](http://iot.eclipse.org/java/) (based on MQTT) by Eclipse Foundation,
  - [OpenIoT](http://www.openiot.eu/) by DERI,
