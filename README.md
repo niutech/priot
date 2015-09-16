@@ -3,7 +3,7 @@ The Private Internet of Things Manifesto
 
 We believe the Internet of Things is a very promising idea, but we notice it brings very serious privacy concerns. A lot of sensitive data from various sensors around us is going to be gathered and processed in centralized data stores run by big corporations and governments. We think it does not need to be so. We are proposing the Private Internet of Things (PrIoT) paradigm, where private data is stored in decentralized private clouds, fully controlled by users, interoperable with other private clouds and in federation with them, using open standards.
 
-![Centralized vs decentralized](http://upload.wikimedia.org/wikipedia/commons/7/78/Decentralization.jpg)
+![Centralized vs decentralized](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Decentralization_diagram.svg/300px-Decentralization_diagram.svg.png)
 
 Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/introduction-distributed-social-network), the PrIoT model gives control over sensitive data back to users. They keep their data and decide which part of them will be exchanged using one of the emerging open standard protocols:
 - [Advanced Message Queuing Protocol (AMQP)](http://amqp.org/) by OASIS,
